@@ -1,0 +1,2360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Lucky Wheel Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-04 10:30+0000\n"
+"PO-Revision-Date: 2025-03-06 02:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2049
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:447
+msgid ""
+" must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+"phải được bật trong khu vực giao hàng và được cài đặt để yêu cầu \"một phiếu "
+"giảm giá miễn phí vận chuyển hợp lệ\" (xem cài đặt trong \"Free Shipping "
+"requires\")"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1365
+msgid " seconds"
+msgstr "giây"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:53
+msgid ""
+" The API key for connecting with your MailChimp account. Get your API key "
+msgstr "API key để kết nối tới tài khoản MailChimp. Lấy API key. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1373
+msgid " to be able to spin again."
+msgstr "để có thể quay tiếp lần nữa. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:740
+msgid " to hide wheel on homepage"
+msgstr "để ẩn vòng quay tại trang chủ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:719
+msgid " to show only on cart page"
+msgstr "để chỉ hiển thị trên trang giỏ hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:736
+msgid " to show only on cart page and checkout page"
+msgstr "để chỉ hiển thị trên trang giỏ hàng và trang thanh toán"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:722
+msgid " to show only on checkout page"
+msgstr "để chỉ hiển thị trên trang thanh toán"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:728
+msgid " to show only on WooCommerce shop page"
+msgstr "để chỉ hiển thị trên trang cửa hàng của WooCommerce"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:731
+msgid " to show only on WooCommerce single product page"
+msgstr "để chỉ hiển thị trên trang sản phẩm của WooCommerce"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1306
+msgid "\"Apply Coupon\" button"
+msgstr "Nút \"Áp dụng phiếu giảm giá\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1357
+msgid "\"Apply Coupon\" button background color"
+msgstr "Màu nền của nút \"Áp dụng phiếu giảm giá\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1345
+msgid "\"Apply Coupon\" button color"
+msgstr "Màu chữ của nút \"Áp dụng phiếu giảm giá\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1368
+msgid "\"Apply Coupon\" button font size"
+msgstr "Cỡ chữ của nút \"Áp dụng phiếu giảm giá\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1320
+msgid "\"Apply Coupon\" button redirect"
+msgstr "Đường dẫn của nút \"Áp dụng Phiếu giảm giá\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1382
+msgid "\"Apply Coupon\" button rounded corner"
+msgstr "Bo tròn góc nút \"Áp dụng phiếu giảm giá\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1294
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:218
+msgid "\"Checkout\" with link to checkout page"
+msgstr "\"Thanh toán\" với đường dẫn tới trang thanh toán"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:716
+msgid ""
+"\"Home page\", \"Blog page\" and \"Shop page\" options above must be "
+"disabled to run these conditional tags."
+msgstr ""
+"Ba lựa chọn chỉ hiển thị trên trang \"Cửa hàng\", \"Trang chủ\" và \"Bài "
+"viết\" phải tắt để chạy tính năng tags điều kiện này. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:237
+msgid "\"Name\" field is required"
+msgstr "Trường \"Tên\" là bắt buộc"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:265
+msgid "\"Phone number\" field is required"
+msgstr "Trường \"Số điện thoại\" là bắt buộc"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2498
+msgid "\"Shop now\" button background color"
+msgstr "Màu nền nút \"Mua hàng\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2509
+msgid "\"Shop now\" button font size"
+msgstr "Cỡ chữ nút \"Mua hàng\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2487
+msgid "\"Shop now\" button text color"
+msgstr "Màu chữ nút \"Mua hàng\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2439
+msgid "\"Shop now\" button title"
+msgstr "Tiêu đề nút \"Mua hàng\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2463
+msgid "\"Shop now\" button URL"
+msgstr "Đường dẫn nút \"Mua hàng\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1502
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1511
+msgid "%"
+msgstr "%"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:43
+msgid "**The API key for connecting with your Brevo account. Get your API key "
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/hubspot.php:49
+msgid ""
+"**The API key for connecting with your Hubspot account. Get your API key "
+msgstr "**API key kết nối tới tài khoản Hubspot. Lấy API key "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/klaviyo.php:50
+msgid ""
+"**The API key for connecting with your Klaviyo account. Get your API key "
+msgstr "**API key kết nối tới tài khoản Klaviyo. Lấy API key "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:52
+#| msgid ""
+#| "**The API key for connecting with your Sendinblue account. Get your API "
+#| "key "
+msgid "**The API key for connecting with your Sendy account. Get your API key "
+msgstr "**API key kết nối tới tài khoản Sendinblue. Lấy API key "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:41
+msgid ""
+"**This API Key must have full-access permission of API Keys. You can set it "
+msgstr ""
+"**API Key này cần có toàn quyền truy cập của API Keys. Vui lòng cài đặt"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:61
+msgid ""
+"**Your domain Sendy url, including http:// or https:// in the url. Example: "
+"https://sendy.co/demo"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1005
+msgid "*Invalid google reCAPTCHA secret key!"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:329
+msgid "*Name is required!"
+msgstr "*Vui lòng nhập tên!"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1012
+msgid "*No g_validate_response"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:330
+msgid "*Phone number is required!"
+msgstr "*Vui lòng nhập số điện thoại!"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:540
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:328
+msgid "*Please enter a valid email address"
+msgstr "*Vui lòng điền địa chỉ thư điện tử hợp lệ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:539
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:327
+msgid "*Please enter your email"
+msgstr "*Vui lòng điền địa chỉ thư điện tử"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1043
+msgid "*reCAPTCHA verification failed"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:541
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:331
+msgid "*Require reCAPTCHA verification"
+msgstr "*Yêu cầu xác nhận reCAPTCHA"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:40
+msgid ""
+"*This is the API key that's shown only once when your created it, not the "
+"API key ID."
+msgstr ""
+"*Đây là API key chỉ hiển thị một lần khi được tạo, không phải là API key ID."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1980
+#| msgid ""
+#| "1, Visit <a target=\"_blank\" href=\"http://www.google."
+#| "com/recaptcha/admin\">page</a> to sign up for an API key pair with your "
+#| "Gmail account"
+msgid ""
+"1, Visit <a target=\"_blank\" href=\"https://www.google."
+"com/recaptcha/admin\">page</a> to sign up for an API key pair with your "
+"Gmail account"
+msgstr ""
+"1, Đến <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"trang này</a> để đăng ký và lấy cặp API key trong tài khoản Gmail"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1984
+msgid "2, Choose reCAPTCHA v2 checkbox "
+msgstr "2, Chọn reCAPTCHA v2"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1988
+msgid "2, Choose reCAPTCHA v3"
+msgstr "2, Chọn reCAPTCHA v3"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1990
+msgid "3, Fill in authorized domains"
+msgstr "3, Điền địa chỉ trang web đã được ủy quyền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:97
+msgid "300"
+msgstr "300"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1991
+msgid "4, Accept terms of service and click Register button"
+msgstr "4, Đồng ý điều khoản dịch vụ và ấn nút Đăng ký"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1992
+msgid "5, Copy and paste the site and secret key into the above field"
+msgstr "5, Sao chép và dán địa chỉ webiste và secret key vào trường bên trên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:104
+msgid "5000"
+msgstr "5000"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:111
+msgid "64M"
+msgstr "64M"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:940
+msgid ""
+"<strong>{quantity_label}</strong> is used in prize label if quantity is "
+"greater than 0"
+msgstr ""
+"<strong>{quantity_label}</strong> được sử dùng trong nhãn giải thưởng nếu số "
+"lượng lớn hơn 0"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:941
+msgid ""
+"<strong>{wheel_prize_title}</strong> can be used to refer to the title if "
+"coupon type is a <a href=\"edit.php?post_type=wlwl_wheel_prize\" "
+"target=\"_blank\">Wheel Prize</a>"
+msgstr ""
+"<strong>{wheel_prize_title}</strong> có thể được dùng để chỉ tiêu đề nếu "
+"loại phiếu giảm giá là <a href=\"edit.php?post_type=wlwl_wheel_prize\" "
+"target=\"_blank\">Wheel Prize</a>"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:548
+msgid "Action required to open the popup"
+msgstr "Thao tác để mở popup"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/active_campaign.php:35
+msgid "Active Campaign"
+msgstr "Active Campaign"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/active_campaign.php:42
+msgid "Active Campaign API Key"
+msgstr "Active Campaign API Key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/active_campaign.php:49
+msgid "Active Campaign API URL"
+msgstr "Active Campaign API URL"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/active_campaign.php:54
+msgid "Active Campaign list"
+msgstr "Danh sách Active Campaign"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1582
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1589
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1661
+msgid "Add Image"
+msgstr "Thêm Ảnh"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:691
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:141
+msgctxt "Add new on Admin bar"
+msgid "Emails"
+msgstr "Emails"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:680
+msgctxt "Add new on Admin bar"
+msgid "Wheel Prize"
+msgstr "Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:690
+msgid "Add New Wheel Prize"
+msgstr "Thêm Giải Thường Vòng Quay Mới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2035
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:432
+msgid "Add received email to coupon's allowed emails list"
+msgstr ""
+"Thêm địa chỉ thư điện tử được nhận vào danh sách địa chỉ được cho phép của "
+"phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1504
+msgid "Adjust font size of text on the wheel by"
+msgstr "Điều chỉnh cỡ chữ trên vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:278
+msgid "Adjust Font Size(%)"
+msgstr "Điều chỉnh Cỡ Chữ(%)"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1493
+msgid "Adjust size"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1513
+#| msgid "Adjust wheel size by"
+msgid "Adjust wheel size"
+msgstr "Điều chỉnh kích cỡ vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:289
+msgid "Adjust Wheel Size(%)"
+msgstr "Điều chỉnh Kích cỡ Vòng quay(%)"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:140
+msgctxt "Admin menu"
+msgid "Emails"
+msgstr "Emails"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:679
+msgctxt "Admin menu"
+msgid "Wheel Prize"
+msgstr "Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2618
+#| msgid "Admin notification"
+msgid "Admin Notification"
+msgstr "Thông báo tới Quản trị viên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:805
+msgid "After Finishing Spinning"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:571
+msgid "After one spin, show the popup again after"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:402
+msgid "Ajax"
+msgstr "Ajax"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:403
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:405
+msgid "Ajax endpoint"
+msgstr "Ajax endpoint"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2039
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:438
+msgid "Allow free shipping"
+msgstr "Cho phép miễn phí vận chuyển"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:395
+msgid "Allow to display wheel for screen less than 760px"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:55
+msgid "API key"
+msgstr "API key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1537
+msgid "Apply coupon"
+msgstr "Áp dụng phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2249
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:641
+msgid "Apply To All Qualifying Items In Cart"
+msgstr "Áp Dụng Với Tất Cả Sản Phẩm Đủ Tiêu Chuẩn Trong Giỏ Hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:499
+msgid "Assign Page"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1168
+msgid "Auto Color"
+msgstr "Màu tự động"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2632
+msgid "Auto update key"
+msgstr "Mã tự động cập nhật"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1211
+msgid "Automatically hide wheel after"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:508
+msgid "Automatically show wheel after initial time"
+msgstr "Tự động hiện vòng quay sau khoảng thời gian"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2397
+msgid "Available placeholders: "
+msgstr "Placeholder có thể sử dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:651
+msgid "Background"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:38
+msgid "Background Color"
+msgstr "Màu Nền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1667
+msgid "Background color"
+msgstr "Màu nền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1825
+msgid "Background effect"
+msgstr "Hiệu ứng nền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:52
+msgid "Background Image"
+msgstr "Ảnh Nền "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1639
+msgid "Background image"
+msgstr "Ảnh nền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:564
+msgid "Balloons"
+msgstr "Bóng bay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/woocommerce-email-template-customizer.php:112
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:455
+msgid "Black List"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:474
+msgid "Black list"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:569
+msgid "Blurred snows"
+msgstr "Tuyết mờ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1544
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:178
+msgid "Bottom"
+msgstr "Dưới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:602
+msgid "Bottom Left"
+msgstr "Góc trái dưới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:603
+msgid "Bottom Right"
+msgstr "Góc phải dưới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:69
+msgid "Bounced"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:32
+msgid "Brevo (Sendinblue)"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:45
+msgid "Brevo API Key"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:50
+msgid "Brevo lists"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:165
+msgid "Button Apply coupon redirect"
+msgstr "Đường dẫn nút Áp dụng phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:141
+msgid "Button Spin Background Color"
+msgstr "Màu Nền Nút Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:126
+msgid "Button Spin Color"
+msgstr "Màu Nút Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:3154
+msgid "Cancel"
+msgstr "Hủy"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1541
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:175
+msgid "Center"
+msgstr "Giữa"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:78
+msgid "Center Image"
+msgstr "Ảnh Vùng Trung Tâm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2102
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:495
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Bật nút này để phiếu giảm giá không được phép sử dụng cùng với các phiếu "
+"giảm giá khác. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2047
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:445
+msgid "Check this box if the coupon grants free shipping. A "
+msgstr ""
+"Bật nút này nếu cho phép phiếu giảm giá áp dụng với miễn phí vận chuyển. A"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2115
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:509
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are items in the cart that are not on sale."
+msgstr ""
+"Không cho phép phiếu giảm giá áp dụng với sản phẩm ưu đãi. Phiếu giảm giá "
+"cho mặt hàng được áp dụng với sản phẩm không ưu đãi. Phiếu giảm giá cho giỏ "
+"hàng được áp dụng nếu trong giỏ hàng không có sản phẩm ưu đãi. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1500
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:462
+msgid "Choose using white/black list"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1039
+msgid "Clone this item"
+msgstr "Nhân bản"
+
+#. Description of the plugin
+msgid ""
+"Collect customer's emails by spinning the lucky wheel game to get discount "
+"coupons."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:640
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:991
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1597
+msgid "Color"
+msgstr "Màu"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1175
+msgid "Color is set randomly from predefined sets for each visitor"
+msgstr "Màu được chọn ngẫu nhiên từ cài đặt xác định trước cho mỗi người dùng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:734
+msgid ""
+"Combining 2 or more conditionals using || to show wheel if 1 of the "
+"conditionals matched. e.g use "
+msgstr ""
+"Kết hợp 2 điều kiện hay nhiều hơn, sử dung || để hiển thị vòng quay nếu 1 "
+"điều kiện khớp. VD sử dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:771
+msgid "Conditional tags"
+msgstr "Conditional tags"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:185
+msgid "Congratulation Effect"
+msgstr "Hiệu ứng Chúc mừng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:837
+msgid "Country code"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:404
+msgid "Coupon amount"
+msgstr "Số tiền phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2270
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:395
+msgid "Coupon code prefix"
+msgstr "Tiền tố mã giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1300
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2372
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2602
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:224
+msgid "Coupon code/custom value will be sent to customer."
+msgstr "Mã giảm giá/Giá trị tùy chỉnh được gửi đến khách hàng. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:194
+msgid "Coupon Given"
+msgstr "Phiếu giảm giá được đưa ra"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2299
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2326
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2374
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2582
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2604
+msgid "Coupon label/custom label that customers win"
+msgstr "Nhãn phiếu giảm giá/Nhãn tùy chỉnh mà khách hàng thắng được"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:85
+msgid "Coupon not exists, please select an other one."
+msgstr "Phiếu giảm giá không tồn tại, vui lòng chọn một mã khác"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:149
+msgid "Coupon settings"
+msgstr "Cài đặt phiếu giảm giá "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:986
+msgid "Coupon Type"
+msgstr "Loại Phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:413
+msgid "Coupon type"
+msgstr "Loại phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2063
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:459
+msgid "Coupon will expire after x day(s) since it's generated and sent"
+msgstr "Phiếu giảm giá sẽ hết hạn sau x ngày từ khi được tạo và gửi đi"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:174
+msgid "Coupons"
+msgstr "Phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:956
+msgid "Create a new email template"
+msgstr "Tạo mẫu email mới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1528
+msgid "Currency code in English(VND, USD, EUR, GBP ...)"
+msgstr "Mã tiền tệ trong tiếng Anh(VND, USD, EUR, GBP ...)"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1049
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1873
+msgid "Custom css"
+msgstr "CSS tùy chỉnh"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1650
+msgid "Custom image"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:672
+msgid "Custom popup icon"
+msgstr "Biểu tượng popup"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:677
+msgid "Custom popup icon design"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:157
+msgid "Custom winning message"
+msgstr "Thông báo thắng giải"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:169
+msgid "Customer name"
+msgstr "Tên khách hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2529
+msgid "Customer Notification"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2600
+msgid "Customer's mobile."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2370
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2598
+msgid "Customer's name."
+msgstr "Tên khách hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1296
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:220
+msgid "Customers'name if they enter"
+msgstr "Tên khách hàng nếu được điền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1960
+msgid "Dark"
+msgstr "Tối"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2061
+msgid "Day(s)"
+msgstr "Ngày"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:432
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:525
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:541
+msgid "Days"
+msgstr "Ngày"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1649
+msgid "Default"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:808
+msgid "Design"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:189
+msgid "Disable"
+msgstr "Tắt"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1520
+msgid "Displayed Currency"
+msgstr "Tiền tệ hiển thị"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:58
+msgid "Do not add to any list"
+msgstr "Không thêm vào bất kỳ danh sách nào"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:97
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:97
+msgid "Duplicate this item"
+msgstr "Nhân bản"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1158
+msgid ""
+"Each time a customer wins a prize, its quantity will be automatically "
+"reduced by 1"
+msgstr ""
+"Mỗi khi khách hàng thắng một giải, số lượng giải thưởng tự động giảm đi 1"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:688
+msgid "Edit Wheel Prize"
+msgstr "Chỉnh sửa Giải thưởng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2663
+msgid "Email"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2664
+msgid "Email API"
+msgstr "Email API"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2343
+msgid "Email content"
+msgstr "Nội dung Email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2316
+msgid "Email heading"
+msgstr "Tiêu đề email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1064
+msgid "Email is invalid"
+msgstr "Email không hợp lệ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2606
+msgid "Email of customer who wins"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2027
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:425
+msgid "Email restriction"
+msgstr "Hạn chế Email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2289
+msgid "Email subject"
+msgstr "Chủ đề email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:143
+msgid "Email Subscribe"
+msgstr "Email Đăng ký"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/woocommerce-email-template-customizer.php:73
+msgid "Email Template"
+msgstr "Mẫu Email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1298
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:222
+msgid "Email that customers enter to spin"
+msgstr "Email khách hàng đã nhập"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2743
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2744
+msgid "Emails"
+msgstr "Emails"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:457
+msgid ""
+"Emails on the list below will be excluded from spinning, while all other "
+"emails will be eligible for spinning"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:193
+msgid "Emails Subcribed"
+msgstr "Email được đăng ký"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:387
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:834
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1907
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2547
+msgid "Enable"
+msgstr "Bật"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2541
+msgid "Enable admin notification"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:221
+msgid "Enable Field Name"
+msgstr "Bật trường \"Tên\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:250
+msgid "Enable Field Phone Number"
+msgstr "Bật trường \"Số điện thoại\""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:32
+msgid "Enable Mailchimp"
+msgstr "Kích hoạt Mailchimp"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1852
+msgid ""
+"Enable this option to show \"Never\", \"Remind later\" and \"No thanks\" "
+"below the Spin Wheel button. The wheel will be hidden afterward if the user "
+"clicks one of these text."
+msgstr "Hiển thị lựa chọn để ẩn vòng quay bên dưới nút Quay. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:682
+msgid "Enable to hide the popup icon after the user closes the wheel."
+msgstr "Ẩn biểu tượng popup sau khi khách hàng tắt vòng quay. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:768
+msgid "Enable to make the popup icon only work on the Shop page"
+msgstr "Biểu tượng popup chỉ hiện trên trang Cửa hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1315
+msgid ""
+"Enable to show the \"Apply Coupon\" button if the prize is WooCommerce "
+"Coupon."
+msgstr ""
+"Hiện nút \"Áp dụng Phiếu giảm giá\" nếu giải thưởng là Phiếu giảm giá của "
+"WooCommerce. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1090
+msgid "Enter Code"
+msgstr "Điền mã"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:469
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:477
+msgid ""
+"Enter domains to this list, each domain per line, leave empty if not use "
+"this feature"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:707
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr "Ex: !is_page(array(123,41,20))"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:470
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:478
+msgid "Ex: abc@email.com is \"email.com\""
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2202
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:595
+msgid "Exclude categories"
+msgstr "Loại trừ Danh mục"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2146
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:541
+msgid "Exclude Products"
+msgstr "Loại trừ Sản phẩm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2106
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:501
+msgid "Exclude sale items"
+msgstr "Loại trừ sản phẩm ưu đãi"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1045
+msgid "Existing coupon"
+msgstr "Phiếu giảm giá có sẵn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2376
+msgid "Expiry date of the coupon."
+msgstr "Ngày hết hạn của phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:214
+msgid "Export Emails"
+msgstr "Xuất danh sách email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:558
+msgid "Falling Leaves 1"
+msgstr "Lá Rơi 1"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:559
+msgid "Falling Leaves 2"
+msgstr "Lá Rơi 2"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:833
+msgid "Field"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1234
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:190
+msgid "Firework"
+msgstr "Pháo hoa"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1048
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:419
+msgid "Fixed cart discount"
+msgstr "Giảm giá giỏ hàng cố định"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1047
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:418
+msgid "Fixed product discount"
+msgstr "Giảm giá sản phẩm cố định"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2387
+msgid "Footer text"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:76
+msgid ""
+"For example, it can only accept the value to be either +91xxxxxxxxxx or "
+"0091xxxxxxxxxx form. Any other value entered would result in an error, hence "
+"the form submission will not be successful."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2049
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:447
+msgid "free shipping method"
+msgstr "phương pháp miễn phí giao hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:205
+msgid "From"
+msgstr "Từ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1397
+msgid "Frontend message if lost"
+msgstr "Thông báo khi không thắng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:30
+msgid "FunnelKit"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:35
+msgid "FunnelKit lists"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:40
+msgid "FunnelKit Status"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:416
+msgid "Gap between 2 spins"
+msgstr "Khoảng cách giữa 2 lần quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:553
+msgid ""
+"Gap time before the popup icon appears after the action to trigger is done. "
+"This gap time is selected randomly within the range you add. Enter min,max "
+"time (seconds). For example: 1,2"
+msgstr ""
+"Khoảng cách thời gian từ khi thực hiện hành động đến khi biểu tượng hiện ra. "
+"Được chọn ngẫu nhiên trong khoảng thời gian đã đặt. Điền khoảng thời gian "
+"nhỏ nhất, lớn nhất (giây). Ví dụ: 1,2"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:435
+msgid "Gap time between 2 consecutive spins of an email"
+msgstr "Khoảng cách thời gian lần quay liên tiếp của cùng một địa chỉ email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1778
+msgid "GDPR checkbox"
+msgstr "Hộp kiểm GDPR"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1791
+msgid "GDPR message"
+msgstr "Thông báo GDPR"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:493
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2659
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:31
+msgid "General"
+msgstr "Tổng quan"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1973
+msgid "Get Google reCAPTCHA V2 Site and Secret key"
+msgstr "Lấy Google reCAPTCHA V2 Site và Secret key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1977
+msgid "Get Google reCAPTCHA V3 Site and Secret key"
+msgstr "Lấy Google reCAPTCHA V3 Site và Secret key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2644
+msgid "Get Key"
+msgstr "Lấy mã"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:811
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1967
+msgid "Guide"
+msgstr "Hướng dẫn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:554
+msgid "Halloween"
+msgstr "Halloween"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:555
+msgid "Halloween 1"
+msgstr "Halloween 1"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:556
+msgid "Halloween 2"
+msgstr "Halloween 2"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:557
+msgid "Halloween 3"
+msgstr "Halloween 3"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:561
+msgid "Heart"
+msgstr "Trái tim"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:560
+msgid "Hearts"
+msgstr "Trái tim"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/klaviyo.php:51
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:54
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:44
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:53
+msgid "here"
+msgstr "ở đây"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/hubspot.php:50
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:42
+msgid "here."
+msgstr "ở đây."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:681
+msgid "Hide popup icon"
+msgstr "Ẩn biểu tượng popup"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1220
+msgid ""
+"Hide the wheel in how many seconds after one spin. Leave 0 to disable this "
+"feature"
+msgstr ""
+"Ẩn vòng quay trong bao lâu sau mỗi lượt quay. Lưu giá trị 0 nếu muốn tắt "
+"tính năng này"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:431
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:524
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:540
+msgid "Hours"
+msgstr "Giờ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1487
+msgid "How long the wheel will spin. Valid duration from 3 to 15 seconds"
+msgstr "Vòng quay sẽ quay trong bao lâu. Thời gian hợp lệ từ 3 đến 15 giây "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2237
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:629
+msgid "How many times this coupon can be used before it is void."
+msgstr "Được phép sử dụng phiếu giảm giá này bao nhiêu lần. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2265
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:656
+msgid "How many times this coupon can be used by an individual user."
+msgstr "Số lần một người dùng cá nhân được phép dùng phiếu giảm giá"
+
+#. Author URI of the plugin
+#| msgid "http://villatheme.com"
+msgid "https://villatheme.com"
+msgstr "http://villatheme.com"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/hubspot.php:38
+msgid "Hubspot"
+msgstr "Hubspot"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/hubspot.php:51
+msgid "Hubspot API Key"
+msgstr "Hubspot API Key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:845
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:451
+msgid "I agree with the term and condition"
+msgstr "Đồng ý với các điều khoản và điều kiện"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:496
+msgid "Icon Design"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:42
+msgid ""
+"If enabled, a confirm subscription email will be sent to each subscriber for "
+"them to confirm that they subscribe to your list."
+msgstr ""
+"Nếu lựa chọn được bật, một email xác nhận đăng ký sẽ được gửi đến khách hàng "
+"để xác nhận họ đã đăng ký vào danh sách, "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:673
+msgid "If no icon is selected, a small version of your real wheel will be used"
+msgstr ""
+"Nếu không có biểu tượng nào được chọn, vòng quay bản thu nhỏ sẽ được dùng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:942
+msgid ""
+"If quantity of a prize is down to zero, its probability will be 0 instead "
+"its original probability and <strong>{quantity_label}</strong> will be "
+"replace with empty string"
+msgstr ""
+"Nếu số lượng giải thưởng về 0, xác suất quay trúng giải thưởng đó cũng sẽ về "
+"0 và <strong>{quantity_label}</strong> sẽ được thay thế bằng chuỗi trống"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:58
+msgid "If the user has opted in for receiving emails."
+msgstr "Nếu khách hàng đã đồng ý nhận email. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:567
+msgid "If the wheel is closed without a spin, show the popup again after"
+msgstr "Nếu khách hàng đóng mà không quay vòng quay, hiển thị lại popup sau"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2174
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:568
+msgid "Include categories"
+msgstr "Bao gồm danh mục"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2120
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:515
+msgid "Include Products"
+msgstr "Bao gồm sản phẩm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:985
+msgid "Index"
+msgstr "Mục"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2094
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:488
+msgid "Individual use only"
+msgstr "Chỉ dùng cho cá nhân"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:552
+msgid "Initial time"
+msgstr "Thời gian khởi tạo"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:799
+msgid "Input fields"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/klaviyo.php:41
+msgid "Klaviyo"
+msgstr "Klaviyo"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/klaviyo.php:52
+msgid "Klaviyo API Key"
+msgstr "Klaviyo API Key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/klaviyo.php:57
+#| msgid "Klaviyo list"
+msgid "Klaviyo lists"
+msgstr "Danh sách Klaviyo"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:987
+msgid "Label"
+msgstr "Nhãn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2904
+msgid "Label cannot be empty."
+msgstr "Không được để trống Nhãn."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1292
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:216
+msgid "Label of coupon that customers win"
+msgstr "Nhãn phiếu giảm giá mà khách hàng thắng được"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:173
+msgid "Labels"
+msgstr "Nhãn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:172
+msgid "Last spin"
+msgstr "Lần quay cuối cùng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:901
+msgid "leave blank to apply all countries"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:411
+msgid "Leave empty to not set the limit."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:712
+msgid ""
+"Let you control on which pages Woocommerce Lucky wheel icon appears using "
+msgstr ""
+"Cho phép biểu tượng WooCommerce Lucky Wheel xuất hiện trên trang nào sử dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1961
+msgid "Light"
+msgstr "Sáng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2242
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:634
+msgid "Limit usage to X items"
+msgstr "Giới hạn sử dụng với sản phẩm X"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2378
+msgid ""
+"List of featured products with product image thumbnail, product title, "
+"product price and a button linked to product page which is design the same "
+"as button {shop_now}(Beware of using this shortcode if your store has too "
+"many featured products)"
+msgstr ""
+"Danh sách sản phẩm nổi bật với ảnh đại diện, tiêu đề, giá và nút dẫn tới "
+"trang sản phẩm được thiết kế giống nút {shop_now}(Sử dụng shortcode này nếu "
+"cửa hàng có quá nhiều sản phẩm nổi bật)"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:15
+msgid "Lucky Wheel"
+msgstr "Lucky Wheel"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:187
+msgid "Lucky Wheel Report"
+msgstr "Lucky Wheel Report"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:43
+msgid "Mailchimp double optin"
+msgstr "Mailchimp double optin"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:60
+msgid "Mailchimp lists"
+msgstr "Danh sách Mailchimp"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/mailpoet.php:30
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/mailpoet.php:35
+#| msgid "MailPoet list"
+msgid "MailPoet lists"
+msgstr "Danh sách MailPoet"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/mailster.php:30
+msgid "Mailster"
+msgstr "Mailster"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/mailster.php:35
+#| msgid "Mailster list"
+msgid "Mailster lists"
+msgstr "Danh sách Mailster"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1455
+#| msgid ""
+#| "Make all wheel slices visible on desktop.By default, the wheel on desktop "
+#| "shows partially. Enable this option to to make it show fully."
+msgid ""
+"Make all wheel segments visible on desktop. By default, the wheel on desktop "
+"shows partially. Enable this option to to make it show fully."
+msgstr "Hiển thị toàn bộ vòng quay trên màn hình máy tính. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2082
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:476
+msgid "Maximum spend"
+msgstr "Giá trị tiêu dùng tối đa"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:107
+msgid "Memory Limit"
+msgstr "Giới hạn Bộ nhớ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:33
+msgid "Metrilo"
+msgstr "Metrilo"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:47
+msgid "Metrilo tag"
+msgstr "Metrilo tag"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:40
+msgid "Metrilo Token"
+msgstr "Metrilo Token"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:600
+msgid "Middle Left"
+msgstr "Giữa bên trái"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:601
+msgid "Middle Right"
+msgstr "Giữa bên phải"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:30
+msgid "Minimum recommended value"
+msgstr "Giá trị nhỏ nhất được gợi ý"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2068
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:464
+msgid "Minimum spend"
+msgstr "Giá trị tiêu dùng nhỏ nhất"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:430
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:523
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:539
+msgid "Minutes"
+msgstr "Phút"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:106
+msgid "Missing token"
+msgstr "Token bị thiếu"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:170
+msgid "Mobile"
+msgstr "Điện thoại"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1106
+msgid "Mobile field is not a valid phone number."
+msgstr "Số điện thoại không hợp lệ."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:817
+msgid "Name"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1097
+msgid "Name is required"
+msgstr "Vui lòng điền tên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:546
+msgid "Name is required!"
+msgstr "Vui lòng điền tên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:858
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:164
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:79
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:96
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:113
+msgid "never expires"
+msgstr "Không bao giờ hết hạn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:692
+msgid "New Wheel Prize"
+msgstr "Giải Thưởng Vòng Quay Mới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:226
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:242
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:255
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:270
+msgid "No"
+msgstr "Không"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:147
+msgid "No Email found in Trash."
+msgstr "Không tìm thấy Email nào trong Thùng rác. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:146
+msgid "No Email found."
+msgstr "Không tìm thấy Email nào. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:687
+msgid "No item found in Trash."
+msgstr "Không tìm thấy email nào trong Thùng rác. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:686
+msgid "No item found."
+msgstr "Không tìm thấy email nào. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2089
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:482
+msgid "No maximum"
+msgstr "Không có giá trị lớn nhất"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2075
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:470
+msgid "No minimum"
+msgstr "Không có giá trị nhỏ nhất"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:864
+msgid "No thanks"
+msgstr "Không, cảm ơn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1044
+msgid "Non"
+msgstr "Không có"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:884
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1231
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:553
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/woocommerce-email-template-customizer.php:37
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/class/class-multi-languages.php:200
+msgid "None"
+msgstr "Không có"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1844
+msgid "Not display wheel again"
+msgstr "Không hiển thị lại vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:324
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1156
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:292
+msgid "Not Lucky"
+msgstr "Chúc bạn may mắn lần sau"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2587
+msgid "Notification Email content"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2575
+msgid "Notification Email heading"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2564
+msgid "Notification Email subject"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:171
+msgid "Number of spins"
+msgstr "Số lần quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:3151
+msgid "OK"
+msgstr "OK"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:835
+msgid "On mobile"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:449
+msgid "Only emails on the list below will be eligible for spinning."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:28
+msgid "Option name"
+msgstr "Tên tùy chọn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:954
+msgid "or"
+msgstr "hoặc"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:145
+msgid "Parent Email:"
+msgstr "Email Cha"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:685
+msgid "Parent Wheel Prize:"
+msgstr "Parent Wheel Prize:"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1046
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:417
+msgid "Percentage discount"
+msgstr "Giảm giá theo phần trăm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:997
+#| msgid "Percentage"
+msgid "Percentage(%)"
+msgstr "Phần trăm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:823
+msgid "Phone number"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1102
+msgid "Phone number is required"
+msgstr "Vui lòng điền số điện thoại"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:550
+msgid "Phone number is required!"
+msgstr "Vui lòng điền số điện thoại"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:100
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:93
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:519
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:321
+msgid "Please agree with our term and condition."
+msgstr "Vui lòng đồng ý với các điều khoản và điều kiện "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:551
+msgid "Please enter a valid mobile"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2181
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2209
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:574
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:601
+msgid "Please enter category name"
+msgstr "Vui lòng điền tên danh mục"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:48
+msgid "Please enter tags separated by comma(,)"
+msgstr "Điền các thẻ được ngăn cách bằng dấu phẩy(,)"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2915
+msgid "Please enter value for custom type."
+msgstr "Diền giá trị của kiểu tùy chỉnh. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2909
+msgid "Please enter value for existing coupon."
+msgstr "Điền giá trị của phiếu giảm giá có sẵn. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:820
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:432
+msgid "Please enter your email"
+msgstr "Vui lòng nhập địa chỉ thư điện tử"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:787
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:395
+msgid "Please enter your name"
+msgstr "Vui lòng nhập tên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/shortcode.php:413
+msgid "Please enter your number"
+msgstr "Vui lòng nhập số điện thoại"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:811
+msgid "Please enter your phone number"
+msgstr "Vui lòng nhập số điện thoại"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2125
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2153
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2421
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:520
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:547
+msgid "Please Fill In Your Product Title"
+msgstr "Vui Lòng Điền Tiêu Đề Sản Phẩm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:156
+msgid "Pointer Color"
+msgstr "Màu Con trỏ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:171
+msgid "Pointer Position"
+msgstr "Vị trí Con trỏ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2660
+msgid "Pop-up"
+msgstr "Pop-up"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:507
+msgid "Popup icon"
+msgstr "Biểu tượng popup"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:667
+msgid "Popup icon position"
+msgstr "Vị trí biểu tượng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:668
+msgid "Position of the popup on screen"
+msgstr "Vị trí popup trên màn hình"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:41
+msgid "Preview emails"
+msgstr "Xem trước"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:935
+msgid "Preview Wheel"
+msgstr "Xem trước Vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1164
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1477
+msgid ""
+"Prizes have been changed, please reload the page and spin again. Thank you!"
+msgstr ""
+"Giải thưởng đã được thay đổi, vui lòng tải lại trang và quay lại. Xin cảm ơn!"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:989
+msgid "Probability"
+msgstr "Xác suất"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2197
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:590
+msgid ""
+"Product categories that the coupon will be applied to, or that need to be in "
+"the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"Danh mục sản phẩm được áp dụng phiếu giảm giá, hoặc cần có sản phẩm thuộc "
+"danh mục này trong giỏ hàng để \"Giảm giá giỏ hàng cố định\" được áp dụng. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2225
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:617
+msgid ""
+"Product categories that the coupon will not be applied to, or that cannot be "
+"in the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"Danh mục sản phẩm không được áp dụng phiếu giảm giá, hoặc không được có sản "
+"phẩm thuộc danh mục này trong giỏ hàng để \"Giảm giá giỏ hàng cố định\" được "
+"áp dụng. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2141
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:536
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the \"Fixed cart discount\" to be applied"
+msgstr ""
+"Sản phẩm được áp dụng phiếu giảm giá, hoặc cần có sản phẩm này trong giỏ "
+"hàng để \"Giảm giá giỏ hàng cố định\" được áp dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2169
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:563
+msgid ""
+"Products that the coupon will not be applied to, or that cannot be in the "
+"cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"Sản phẩm không được áp dụng phiếu giảm giá, hoặc không được có sản phẩm này "
+"trong giỏ hàng để \"Giảm giá giỏ hàng cố định\" được áp dụng. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1376
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1390
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2516
+msgid "PX"
+msgstr "PX"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:990
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1545
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:570
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:511
+msgid "Random one of these above"
+msgstr "Chọn ngẫu nhiên một trong số những thao tác trên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1929
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1930
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:861
+msgid "Remind later"
+msgstr "Nhắc lại sau"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1577
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1659
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1036
+msgid "Remove this item"
+msgstr "Loại bỏ sản phẩm này"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:148
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:149
+msgid "Report"
+msgstr "Báo cáo"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:836
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:49
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:67
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:85
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1543
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:177
+msgid "Right"
+msgstr "Bên phái"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2705
+msgid "Save"
+msgstr "Lưu"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2708
+msgid "Save & Check Key"
+msgstr "Lưu và Kiểm tra"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:562
+msgid "Scroll amount(%)"
+msgstr "Cuộn khoảng(%)"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:144
+msgid "Search Email"
+msgstr "Tìm Email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:684
+msgid "Search Wheel Prize"
+msgstr "Tìm kiếm Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:428
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:538
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:559
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1218
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1485
+msgid "Seconds"
+msgstr "Giây"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1945
+msgid "Secret key"
+msgstr "Secret key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1857
+msgid "Select font"
+msgstr "Chọn kiểu chữ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2549
+msgid "Send admin notification when someone wins"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2559
+msgid ""
+"Send notification to this email when someone wins. The from email will be "
+"used if this field is blank"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2554
+msgid "Send notification to:"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:32
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:43
+msgid "SendGrid API Key"
+msgstr "SendGrid API Key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:48
+msgid "Sendgrid lists"
+msgstr "Danh sách Sendgrid"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:42
+msgid "Sendy"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:54
+msgid "Sendy API Key"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:67
+msgid "Sendy Brand"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:99
+msgid "Sendy list"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:62
+msgid "Sendy login url"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:124
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1446
+msgid "Show full wheel"
+msgstr "Hiện toàn bộ vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:754
+msgid "Show only on Blog page"
+msgstr "Chỉ hiển thị trên trang Bài viết"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:746
+msgid "Show only on Homepage"
+msgstr "Hiển thị trên Trang chủ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:762
+msgid "Show only on Shop page"
+msgstr "Chỉ hiển thị trên trang Cửa hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:509
+msgid "Show wheel after users scroll down a specific value"
+msgstr "Hiện vòng quay sau khi khách hàng kéo xuống tới một giá trị nhất định"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:510
+msgid "Show wheel when users move mouse over the top to close browser"
+msgstr "Hiện vòng quay sau khi khách hàng di chuột qua nút đóng trình duyệt"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1936
+msgid "Site key"
+msgstr "Site key"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:396
+msgid "Small screen"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:562
+msgid "Smile"
+msgstr "Mặt cười"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:568
+msgid "Snowballs"
+msgstr "Bóng tuyết"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:565
+msgid "Snowflake"
+msgstr "Bông tuyết"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:566
+msgid "Snowflake 1"
+msgstr "Bông tuyết 1"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:567
+msgid "Snowflake 2"
+msgstr "Bông tuyết 2"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1342
+msgid ""
+"Sorry, this email is marked as spam now. Please enter another email to "
+"continue."
+msgstr ""
+"Địa chỉ thư điện tử này đã được đánh dấu là thư rác. Vui lòng điền một địa "
+"chỉ khác để tiếp tục. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1722
+msgid "Spin Wheel button"
+msgstr "Nút Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1763
+msgid "Spin Wheel button background color"
+msgstr "Màu nền của nút Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1748
+msgid "Spin Wheel button color"
+msgstr "Màu chữ của nút Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:198
+msgid "Spinning Time"
+msgstr "Thời gian quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/data.php:563
+msgid "Star"
+msgstr "Ngôi sao"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:59
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:68
+msgid "Subscribed"
+msgstr "Đã đăng ký"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2415
+msgid "Suggested products"
+msgstr "Sản phẩm gợi ý"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1525
+msgid "Symbol"
+msgstr "Biểu tượng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:13
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:14
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:24
+msgid "System Status"
+msgstr "System Status"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:992
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:90
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1682
+msgid "Text color"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1693
+msgid ""
+"Text color in the wheel background content, including wheel description, "
+"text to not show the wheel again... Note: This option may be affected by "
+"your theme."
+msgstr ""
+"Màu chữ của nội dung trong nền của vòng quay, bao gồm mô tả vòng quay, tùy "
+"chọn không hiển thị lại vòng quay... Chú ý: Tùy chọn này có thể bị ảnh hưởng "
+"bởi theme. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2889
+msgid "The amount of Valued-coupon must be greater than or equal to zero!"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2588
+msgid "The content of email sending to admin."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2344
+msgid ""
+"The content of email sending to customers to inform them the coupon code "
+"they receive"
+msgstr "Nội dung email thông báo mã giảm giá gửi tới khách hàng."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2580
+msgid "The heading of emails sending to admin."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2324
+msgid ""
+"The heading of emails sending to customers which include discount coupon "
+"code."
+msgstr "Tiêu đề email thông báo mã giảm giá gửi tới khách hàng. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2251
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:643
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discount."
+msgstr "Số lượng tối đa các sản phẩm đơn lẻ mà phiếu giảm giá được áp dụng."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2090
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:483
+msgid "The maximum spend to use the coupon."
+msgstr "Giá trị tiêu dùng lớn nhất để dùng phiếu giảm giá. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2076
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:471
+msgid "The minimum spend to use the coupon."
+msgstr "Giá trị tiêu dùng nhỏ nhất để dùng phiếu giảm giá. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:412
+msgid "The number of spins per email"
+msgstr "Số lần quay cho mỗi email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1478
+msgid ""
+"The number of spins per one second. For example, if you select 10, it means "
+"the wheel spins 10 rolls in one second"
+msgstr ""
+"Số vòng quay cho mỗi giây. Ví dụ, nếu chọn 10; vòng quay sẽ quay 10 vòng "
+"trong một giây"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1815
+msgid "The options below will be specifically reserved for the popup."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2569
+msgid "The subject of emails sending to admin."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2297
+msgid ""
+"The subject of emails sending to customers which include discount coupon "
+"code."
+msgstr "Chủ đề email bao gồm mã giảm giá được gửi tới khách hàng. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2883
+msgid "The total probability must greater than 0!"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1955
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2879
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2898
+msgid "There must be at least 3 rows!"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2434
+msgid ""
+"These products will be added at the end of email content with product image "
+"thumbnail, product title, product price and a button linked to product page "
+"which is design the same as button {shop_now}"
+msgstr ""
+"Những sản phẩm này sẽ được thêm vào cuối nội dung email, bao gồm ảnh đại "
+"diện sản phẩm, tên sản phẩm, giá và nút dẫn tới trang sản phẩm được thiết kế "
+"giống nút {shop_now}"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:77
+msgid ""
+"This means that the field type has to be a TEXT type if you want it to "
+"accept both formats (i.e +91xxxxxxxxxx or 0091xxxxxxxxxx). E.g 0061467029760 "
+"or +61467029760"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2055
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:454
+msgid "Time to live"
+msgstr "Thời hạn sử dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:207
+msgid "To"
+msgstr "Tới"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1157
+msgid "To change probability, please adjust weight"
+msgstr "Để thay đổi xác suất, hãy thay đổi ở trọng số"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:725
+msgid "to show only on WooCommerce category page"
+msgstr "Để chỉ hiển thị trên trang danh mục sản phẩm của WooCommrece"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1542
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:176
+msgid "Top"
+msgstr "Phía trên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:598
+msgid "Top Left"
+msgstr "Góc trái trên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:599
+msgid "Top Right"
+msgstr "Góc phải trên"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/report.php:192
+msgid "Total Spins"
+msgstr "Tống số lần quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:610
+msgid "Try Your Lucky"
+msgstr "Thử vận may của bạn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/active_campaign.php:34
+msgid "Turn on to use ActiveCampaign system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:31
+msgid "Turn on to use Brevo system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:29
+msgid "Turn on to use FunnelKit system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1919
+msgid "Turn on to use Google ReCaptcha"
+msgstr "Bật để sử dụng Google ReCaptcha"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/hubspot.php:37
+msgid "Turn on to use Hubspot system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/klaviyo.php:40
+msgid "Turn on to use Klaviyo system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/mailchimp.php:31
+msgid "Turn on to use MailChimp system"
+msgstr "Bật để sử dụng hệ thống MailChimp"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/mailpoet.php:29
+msgid "Turn on to use MailPoet system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/mailster.php:29
+msgid "Turn on to use Mailster system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:32
+msgid "Turn on to use Metrilo system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendgrid.php:31
+msgid "Turn on to use SendGrid system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendy.php:41
+msgid "Turn on to use Sendy system"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2662
+msgid "Unique Coupon"
+msgstr "Phiếu giảm giá tùy chỉnh"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2263
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:654
+msgid "Unlimited Usage"
+msgstr "Sử dụng không giới hạn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/funnelkit.php:67
+msgid "Unverified"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2665
+msgid "Update"
+msgstr "Cập nhật"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:689
+msgid "Update Wheel Prize"
+msgstr "Cập nhật Wheel Prize"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:278
+msgid "Url of cart page"
+msgstr "Url của trang giỏ hàng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:276
+msgid "Url of checkout page"
+msgstr "Url của trang thanh toán"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2230
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:622
+msgid "Usage limit per coupon"
+msgstr "Giới hạn sử dụng cho mỗi phiếu giảm giá"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2256
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:648
+msgid "Usage limit per user"
+msgstr "Giới hạn sử dụng cho mỗi người dùng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:718
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:721
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:724
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:727
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:730
+msgid "Use "
+msgstr "Sử dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:939
+msgid ""
+"Use <strong>{coupon_amount}</strong> for WooCommerce coupon type to refer to "
+"the amount of that coupon. e.g: Coupon type is percentage discount, coupon "
+"value is 10 then <strong>{coupon_amount}</strong> will become 10% when "
+"printing out on the wheel."
+msgstr ""
+"Sử dụng <strong>{coupon_amount}</strong> cho loại phiếu giảm giá WooCommerce "
+"để chỉ số lượng giảm giá cho phiếu đó. e.g: Phiếu giảm giá là Giảm giá theo "
+"phần trăm, giá trị là 10 thì  <strong>{coupon_amount}</strong> là 10% khi "
+"hiển thị trên vòng quay. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:242
+msgid "Use custom URL"
+msgstr "Dùng URL tùy chỉnh"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:187
+msgid "Use custom winning message"
+msgstr "Sử dụng thông báo thắng giải tùy chỉnh"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:739
+msgid ""
+"Use exclamation mark(!) before a conditional to hide wheel if the "
+"conditional matched. e.g use "
+msgstr ""
+"Dùng dấu chấm than(!) trước một điều kiện để ẩn vòng quay đi nếu điều kiện "
+"đó khớp. ví dụ sử dụng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:988
+msgid "Value"
+msgstr "Giá trị"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1924
+msgid "Version"
+msgstr "Phiên bản"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:953
+msgid "View all Email templates"
+msgstr "Xem tất cả Mẫu email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:142
+msgid "View Email"
+msgstr "Xem"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:681
+msgid "View Wheel Prize"
+msgstr "Xem Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:682
+msgid "View Wheel Prizes"
+msgstr "Xem Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2727
+msgid "WC Lucky Wheel"
+msgstr "WC Lucky Wheel"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:996
+msgid "Weight"
+msgstr "Trọng số"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:115
+msgid "Wheel Border Color"
+msgstr "Màu viền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1621
+msgid "Wheel border color"
+msgstr "Màu viền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1632
+msgid "Wheel border dot color"
+msgstr "Màu chấm tròn của viền"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1565
+msgid "Wheel center background image"
+msgstr "Ảnh nền vùng trung tâm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:67
+msgid "Wheel Center Color"
+msgstr "Màu Vùng Trung Tâm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1610
+msgid "Wheel center color"
+msgstr "Màu vùng trung tâm"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1698
+msgid "Wheel description"
+msgstr "Mô tả vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:104
+msgid "Wheel Dot Color"
+msgstr "Màu chấm tròn trên Vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1535
+msgid "Wheel pointer"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1558
+msgid "Wheel pointer color"
+msgstr "Màu Con trỏ"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1547
+msgid "Wheel pointer position"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:694
+msgid "Wheel Prize"
+msgstr "Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2736
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2737
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/wheel-prize.php:683
+msgid "Wheel Prizes"
+msgstr "Giải Thưởng Vòng Quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2661
+msgid "Wheel Settings"
+msgstr "Cài đặt Vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:802
+msgid "Wheel Slides"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:210
+msgid "Wheel Speed"
+msgstr "Tốc độ Vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1460
+#| msgid "Wheel speed"
+msgid "Wheel spin"
+msgstr "Tốc độ vòng quay"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/sendinblue.php:75
+msgid ""
+"When you are mapping to the SMS field, the Mobile Number should be passed "
+"with the proper country code."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:447
+msgid "White List"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:466
+msgid "White list"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1225
+msgid "Winning effect"
+msgstr "Hiệu ứng thắng giải"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1265
+msgid "Winning message if prize is custom type"
+msgstr "Thông báo thắng giải nếu giải thưởng là kiểu tùy chọn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1241
+msgid "Winning message if prize is WooCommerce coupon"
+msgstr "Thông báo thắng giải nếu Giải thưởng là phiếu giảm giá của WooCommerce"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2726
+msgid "WooCommerce Lucky Wheel"
+msgstr "WooCommerce Lucky Wheel"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/plugins/woocommerce-email-template-customizer.php:85
+msgid "WooCommerce Lucky Wheel - Coupon Email"
+msgstr "WooCommerce Lucky Wheel - Coupon Email"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/woocommerce-lucky-wheel.php:149
+msgid "Woocommerce lucky wheel emails."
+msgstr "Thư của Woocommerce lucky wheel."
+
+#. Name of the plugin
+msgid "Woocommerce Lucky Wheel Premium"
+msgstr "Woocommerce Lucky Wheel Premium"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2670
+msgid "WooCommerce Lucky Wheel Settings"
+msgstr "Cài đặt WooCommerce Lucky Wheel"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:713
+msgid "WP's conditional tags"
+msgstr "WP's conditional tags"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1110
+msgid "Wrong email."
+msgstr "Sai địa chỉ thư. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/metrilo.php:57
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:225
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:241
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:254
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/includes/elementor/widget.php:269
+msgid "Yes"
+msgstr "Đồng ý"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:1149
+msgid "You can drag and drop slices to rearrange them."
+msgstr "Kéo và thả để sắp xếp lại các phần"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:945
+msgid ""
+"You can use <a href=\"https://1.envato.market/BZZv1\" target=\"_blank\">"
+"WooCommerce Email Template Customizer</a> or <a href=\"http://bit.ly/woo-"
+"email-template-customizer\" target=\"_blank\">Email Template Customizer for "
+"WooCommerce</a> to create and customize your own email template for each "
+"prize. If no email template is selected, the default setting at <a "
+"href=\"#email\">the 'Email' tab</a> will be used."
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1357
+msgid "You have reached the maximum spins."
+msgstr "Đã đến giới hạn số lần quay. "
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1373
+msgid "You have to wait "
+msgstr "Xin vui lòng đợi"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:485
+msgid "You have to wait until your next spin."
+msgstr "Xin vui lòng đợi đến lượt quay tiếp theo."
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1081
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/frontend/frontend.php:1087
+msgid "Your email is not allowed"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/system-status.php:29
+msgid "Your option value"
+msgstr "Giá trị tùy chọn"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:2676
+msgid "Your settings have been saved!"
+msgstr ""
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:973
+msgid "{prize_quantity} - The quantity of respective prize"
+msgstr "{prize_quantity} - Số lượng giải thưởng tương ứng"
+
+#: D:/git/woocommerce-lucky-wheel/woocommerce-lucky-wheel/admin/settings.php:972
+msgid "{quantity_label}"
+msgstr "{quantity_label}"
